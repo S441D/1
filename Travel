@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página web de viajes</title>
+</head>
+<body>
+  <header>
+    <h1>Bienvenidos a nuestra página web de viajes</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#destinos-populares">Destinos populares</a></li>
+      <li><a href="#consejos-de-viaje">Consejos de viaje</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="destinos-populares">
+      <h2>Destinos populares</h2>
+      <p>Aquí hay algunos de nuestros destinos populares:</p>
+      <ul>
+        <li>Paris</li>
+        <li>Roma</li>
+        <li>Nueva York</li>
+      </ul>
+    </section>
+
+    <section id="consejos-de-viaje">
+      <h2>Consejos de viaje</h2>
+      <p>Aquí hay algunos de nuestros consejos para viajar:</p>
+      <ul>
+        <li>Reserva con anticipación</li>
+        <li>Empaca ligeramente</li>
+        <li>Investiga sobre el destino</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Página web de viajes</p>
+  </footer>
+</body>
+</html>
